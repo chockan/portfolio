@@ -122,7 +122,7 @@ a{
 
 /*home section*/
 .homemain{
-    background-image: url('images/shine.jpg');
+    background-image: url('./images/shine.jpg');
 
 
 }
